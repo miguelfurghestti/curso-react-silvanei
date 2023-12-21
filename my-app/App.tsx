@@ -7,7 +7,7 @@ export default function App() {
       <Text
       style={{
         fontSize: 30,
-        color: 'white',
+        color: 'black',
         fontWeight: 'bold',
       }}
       >Miguel Furghestti</Text>
@@ -19,7 +19,7 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#9e3c3c',
+    backgroundColor: '#fff',
     alignItems: 'center',
     justifyContent: 'center',
   },
